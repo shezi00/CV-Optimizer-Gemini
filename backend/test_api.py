@@ -1,7 +1,7 @@
 from ai_engine import analyze_cv_with_ai
 
 # USE YOUR HARDCODED KEY HERE
-test_key = "AIzaSyDb6r-Ma0WLuUxDGJiTh0ZSHescR_btOiM"
+test_key = ""
 
 print("--- Testing AI Connection ---")
 try:
